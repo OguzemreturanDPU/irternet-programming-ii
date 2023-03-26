@@ -1,0 +1,20 @@
+{
+    "name": "oguzturan/dpu",
+    "description": "Bu paket program dersi programcılığı için oluşturulmuştur. Örnektir.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Oguzturan\\Dpu\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oguz Turan"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ramsey/uuid": "5.x-dev"
+    }
+}
